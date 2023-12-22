@@ -1,8 +1,8 @@
 {
-	"name": "example",
-	"author": "L+RATIO#1000",
-	"version": "4.2.0",
-	"description": "Your bunk ass theme... Now with BLUR!",
+	"name": "Purpii",
+	"author": "noobgato",
+	"version": "1.50",
+	"description": "Calm Relaxing",
 	"authors": [ 
 		{
 			"name": "Gato Noob",
@@ -13,8 +13,8 @@
 		"KEYBOARD": ["#533A96", "#FFFFFF"],
 		"BACKGROUND_PRIMARY": ["#533A96", "#FFFFFF"],
 		"BACKGROUND_SECONDARY": ["#533A96", "#FFFFFF"],
-		"BACKGROUND_SECONDARY_ALT": ["#AB8BFE", "#FFFFFF"],
-		"BACKGROUND_TERTIARY": ["#AB8BFE", "#FFFFFF"],
+		"BACKGROUND_SECONDARY_ALT": ["#533A96", "#FFFFFF"],
+		"BACKGROUND_TERTIARY": ["#533A96", "#FFFFFF"],
 		"BACKGROUND_ACCENT": ["#AB8BFE", "#FFFFFF"],
 		"BACKGROUND_FLOATING": ["#AB8BFE", "#FFFFFF"],
 		"BACKGROUND_NESTED_FLOATING": ["#AB8BFE", "#FFFFFF"],
